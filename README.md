@@ -13,6 +13,7 @@ jump_tawatyr ported to Momentum Mod
   - Deleted various unused point entites, like class filters, health logic timer, damage filters
   - Switched cap point to Momentum cap point
   - Switched glass to combine glass as the previous conflicts with some other texture in Momentum
+  - Added zones
 - Fixed cheat on last
 - Added strat on 3-4 transition
   - Back wall to shoot off of when syncing through the hole
