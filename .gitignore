@@ -5,4 +5,4 @@
 *.mdmp
 *.hpverts
 *.hpvertstext
-*.bsp
+*.bsp*
